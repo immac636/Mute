@@ -1,0 +1,10 @@
+name: MainCmd
+main: mute.Mute
+version: 0.1
+author: immac636
+commands:
+    mute:
+        description: Mute a player
+        usage: /<command> (player)
+        permissions: Mute
+
